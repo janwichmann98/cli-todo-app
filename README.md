@@ -32,9 +32,12 @@ Follow these instructions to set up and run the project on your local machine.
 ### Usage
 Run the application using Cargo with the following commands:
 
-- **Add a Task:** cargo run -- add "Buy groceries"
-- **List Tasks:** cargo run -- list
-- **Remove a Task:** cargo run -- remove 1
+- **Add a Task:**
+  cargo run -- add "Buy groceries"
+- **List Tasks:**
+  cargo run -- list
+- **Remove a Task:**
+  cargo run -- remove 1
 
 Tasks are stored in a file named todo.json in the project root. The file is created automatically when you add your first task.
 
