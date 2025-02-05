@@ -24,7 +24,7 @@ Follow these instructions to set up and run the project on your local machine.
    git clone https://github.com/janwichmann98/cli-todo-app.git
    cd cli-todo-app
 
-2. **Clone the repository:**
+2. **Build the project:**
    ```Bash
    cargo build
 
