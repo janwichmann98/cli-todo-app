@@ -22,7 +22,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cli-todo-app.git
+   git clone https://github.com/janwichmann98/cli-todo-app.git
    cd cli-todo-app
 
 2. **Clone the repository:**
@@ -42,10 +42,12 @@ Run the application using Cargo with the following commands:
 Tasks are stored in a file named todo.json in the project root. The file is created automatically when you add your first task.
 
 ### Project Structure
+```
 cli-todo-app/
 ├── Cargo.toml        # Project metadata and dependencies
 └── src/
     └── main.rs       # Main application code
+```
 
 ### Contributing
 Contributions are welcome! Please follow these steps:
@@ -57,4 +59,4 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [MIT LICENSE](LICENSE) file for details.
