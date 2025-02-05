@@ -20,20 +20,19 @@ Follow these instructions to set up and run the project on your local machine.
 ### Installation
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/janwichmann98/cli-todo-app.git
    cd cli-todo-app
 
 2. **Clone the repository:**
-
+   ```Bash
    cargo build
 
 ### Usage
 Run the application using Cargo with the following commands:
 
 - **Add a Task:**
-  '''bash
+  ```Bash
   cargo run -- add "Buy groceries"
   
 - **List Tasks:**
